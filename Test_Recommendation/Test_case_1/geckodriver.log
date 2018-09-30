@@ -1,0 +1,17 @@
+1530840700239	geckodriver	INFO	geckodriver 0.18.0
+1530840700267	geckodriver	INFO	Listening on 127.0.0.1:47471
+1530840701448	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530840706973	Marionette	INFO	Listening on port 40255
+1530840707163	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/driver.js :: GeckoDriver.prototype.maximizeWindow/windowSizeChange/< :: line 3047"  data: no]
+GeckoDriver.prototype.maximizeWindow/windowSizeChange/<@chrome://marionette/content/driver.js:3047:9
+evalFn@chrome://marionette/content/sync.js:86:7
+openModalWindow@jar:file:///usr/lib/firefox/omni.ja!/components/nsPrompter.js:353:5
+openPrompt@jar:file:///usr/lib/firefox/omni.ja!/components/nsPrompter.js:563:9
+nsIPrompt_promptUsernameAndPassword@jar:file:///usr/lib/firefox/omni.ja!/components/nsPrompter.js:754:9
+promptAuth@jar:file:///usr/lib/firefox/omni.ja!/components/nsPrompter.js:853:18
+promptAuth@jar:file:///usr/lib/firefox/omni.ja!/components/nsPrompter.js:100:16
+promptAuth@jar:file:///usr/lib/firefox/omni.ja!/components/nsLoginManagerPrompter.js:599:12
+run@jar:file:///usr/lib/firefox/omni.ja!/components/nsLoginManagerPrompter.js:121:18
+
+1530840751831	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout

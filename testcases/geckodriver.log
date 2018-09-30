@@ -1,0 +1,97 @@
+1523007893446	geckodriver	INFO	geckodriver 0.18.0
+1523007893476	geckodriver	INFO	Listening on 127.0.0.1:57925
+1523007894679	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1523007900726	Marionette	INFO	Enabled via --marionette
+1523007912598	Marionette	INFO	Listening on port 35005
+1523007912788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.129.26.119/static/js/scriptMyContrib.js, line 8: ReferenceError: Chart is not defined
+JavaScript error: http://10.129.26.119/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://10.129.26.119/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://10.129.26.119/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://10.129.26.119/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://10.129.26.119/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1523008017565	geckodriver	INFO	geckodriver 0.18.0
+1523008017582	geckodriver	INFO	Listening on 127.0.0.1:33311
+1523008018652	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1523008022026	Marionette	INFO	Enabled via --marionette
+1523008026498	Marionette	INFO	Listening on port 42563
+1523008026532	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.129.26.119/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://10.129.26.119/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://10.129.26.119/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://10.129.26.119/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://10.129.26.119/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://10.129.26.119/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 2941, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2941, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2941, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1523008034047	geckodriver	INFO	geckodriver 0.18.0
+1523008034053	geckodriver	INFO	Listening on 127.0.0.1:51999
+1523008035160	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1523008036774	Marionette	INFO	Enabled via --marionette
+1523008039604	Marionette	INFO	Listening on port 36497
+1523008039696	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.129.26.119/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://10.129.26.119/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://10.129.26.119/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://10.129.26.119/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://10.129.26.119/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://10.129.26.119/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1523008084163	geckodriver	INFO	geckodriver 0.18.0
+1523008084175	geckodriver	INFO	Listening on 127.0.0.1:52395
+1523008085271	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1523008086166	Marionette	INFO	Enabled via --marionette
+1523008088912	Marionette	INFO	Listening on port 45913
+1523008088986	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523009876353	geckodriver	INFO	geckodriver 0.18.0
+1523009876383	geckodriver	INFO	Listening on 127.0.0.1:42245
+1523009877603	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1523009883462	Marionette	INFO	Enabled via --marionette
+1523009893214	Marionette	INFO	Listening on port 43545
+1523009894640	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.129.26.119/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://10.129.26.119/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://10.129.26.119/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://10.129.26.119/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://10.129.26.119/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://10.129.26.119/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 4554, Chrome_ChildThread] WARNING: pipe error (40): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4554, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4554, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1523009977221	geckodriver	INFO	geckodriver 0.18.0
+1523009977227	geckodriver	INFO	Listening on 127.0.0.1:45755
+1523009978624	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1523009982444	Marionette	INFO	Enabled via --marionette
+1523009985914	Marionette	INFO	Listening on port 34851
+1523009985976	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.129.26.119/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://10.129.26.119/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://10.129.26.119/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://10.129.26.119/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://10.129.26.119/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://10.129.26.119/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 4770, Chrome_ChildThread] WARNING: pipe error (40): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4770, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4770, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4770, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1523009994769	geckodriver	INFO	geckodriver 0.18.0
+1523009994774	geckodriver	INFO	Listening on 127.0.0.1:34959
+1523009995906	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1523009997122	Marionette	INFO	Enabled via --marionette
+1523009999944	Marionette	INFO	Listening on port 46521
+1523010000020	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.129.26.119/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://10.129.26.119/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://10.129.26.119/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://10.129.26.119/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://10.129.26.119/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://10.129.26.119/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 4940, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4940, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4940, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1523010017381	geckodriver	INFO	geckodriver 0.18.0
+1523010017385	geckodriver	INFO	Listening on 127.0.0.1:55407
+1523010018510	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1523010019676	Marionette	INFO	Enabled via --marionette
+1523010022416	Marionette	INFO	Listening on port 32823
+1523010022450	Marionette	WARN	TLS certificate errors will be ignored for this session
